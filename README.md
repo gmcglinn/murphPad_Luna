@@ -39,5 +39,7 @@ Also because this is a keypad and not a keyboard with space, control, etc I have
 Display also contains a Function Layer indicator, Capslock and Numlock indicators, and an innacurate WPM counter for keypad presses
 
 
+You can simply flash the provided hex file with the QMK toolbox, if you would like additional customizations to the keyset I will leave you to recompile this yourself.
+
 
 Find the original code by HellSingCoder for a Sofle here: https://github.com/HellSingCoder/qmk_firmware/tree/master/keyboards/sofle/keymaps/helltm
