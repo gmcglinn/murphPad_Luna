@@ -8,10 +8,10 @@ Reduced functionality and size of the Luna icons and animations to fit on the Pr
 Keymaps are as follows:
 
 ```
-[_BASE] = LAYOUT(
-        KC_DELETE,   KC_PSCREEN,   KC_PAUSE,   KC_CALCULATOR,
-	KC_NLCK, KC_PSLS, KC_PAST, KC_PMNS,
-        KC_P7,   KC_P8,   KC_P9,   KC_PPLS,
+    [_BASE] = LAYOUT(
+                  KC_DELETE,   KC_PSCREEN,   KC_PAUSE,   KC_CALCULATOR,
+				          KC_NLCK, KC_PSLS, KC_PAST, KC_PMNS,
+                  KC_P7,   KC_P8,   KC_P9,   KC_PPLS,
         KC_MEDIA_PLAY_PAUSE,  KC_P4,   KC_P5,   KC_P6,   _______,
         KC_LSHIFT, KC_P1,   KC_P2,   KC_P3,   KC_PENT,
         MO(_FN1),  KC_P0,   _______, KC_PDOT, _______,
